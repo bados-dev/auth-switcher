@@ -122,7 +122,7 @@ elif [[ $1 == "backup" ]]; then
 else
     echo '#############################################################'
     echo '# Auth-Switcher                                             #'
-    echo '# GitHub repo: https://github.com/bados-dev/auth-switcher   #'
+    echo '# GitHub repo: https://github.com/BaDos/auth-switcher       #'
     echo '#############################################################'
     echo ''
     echo 'Commands:'
