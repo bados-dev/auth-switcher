@@ -25,7 +25,7 @@ If you use the **--global** option, the _auth.json_ file from the Composer confi
 
 ## How to install
 
-* `curl -LJO https://github.com/bados-dev/auth-switcher/releases/download/1.0.0/auth-switcher.sh`
+* `curl -LJO https://github.com/BaDos/auth-switcher/releases/download/1.0.0/auth-switcher.sh`
 
 * `chmod +x auth-switcher.sh`
 
